@@ -40,18 +40,6 @@ KeyCat is a personal-use keystroke logger that runs quietly in your system tray.
 - 🔁 **Resizable window** — drag it to any size you like
 - 🪟 **Windows** + **🐧 Linux** native versions
 
----
-
-## 📁 Files
-
-| File | Platform | Description |
-|------|----------|-------------|
-| `keystroke_logger.py` | 🪟 Windows | Main application |
-| `launch_keycat.bat` | 🪟 Windows | Launcher — no CMD window, auto-installs deps |
-| `keycat_linux.py` | 🐧 Linux | Main application |
-| `launch_keycat.sh` | 🐧 Linux | Launcher — runs in background, auto-installs deps |
-
----
 
 ## 🚀 Getting Started
 
